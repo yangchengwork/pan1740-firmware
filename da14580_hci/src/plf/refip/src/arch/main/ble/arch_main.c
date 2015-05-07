@@ -2,13 +2,14 @@
  * PAN1740 firmware, based on DA14581_HCI_Release_v.3.110.2.12 (da14581)
  *
  * First issue: Angelo Dureghello (C) - Nomovok Oy - 28.4.2015
+ *   <angelo.dureghello@nomovok.com>
  *
  * This is still uVision stuff, we should convert it to gcc.
  *
  * There was no Linux FW available for da14580.
  * This FW requires patched bluez-5.14, and starts from the following 
  * public Dialog Semiconductor packages:
- * 
+ *
  *  - DA14581_HCI_Release_v.3.110.2.12 (da14581)
  *  - DA1458x_SDK_3.0.6
  *
